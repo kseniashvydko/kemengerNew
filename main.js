@@ -54,5 +54,5 @@ document.getElementById("my-modal").addEventListener('click', event => {
 });
 
 $(document).ready(function() {
-  $(".modal__input").mask("+7(999) 999-9999");
+  $("#modal-tel").mask("+7(999) 999-9999");
 })
