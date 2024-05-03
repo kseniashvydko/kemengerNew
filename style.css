@@ -29,12 +29,12 @@ a {
   color: inherit;
 }
 .header {
-  background-image: url(/kemengerNew/img_kemenger/header/back-img/w.png),
-    url(/kemengerNew/img_kemenger/header/back-img/a.png),
-    url(/kemengerNew/img_kemenger/header/back-img/book.png),
-    url(/kemengerNew/img_kemenger/header/back-img/five.png),
-    url(/kemengerNew/img_kemenger/header/back-img/pen.png),
-    url(/kemengerNew/img_kemenger/header/back-boy.png);
+  background-image: url(./img_kemenger/header/back-img/w.png),
+    url(./img_kemenger/header/back-img/a.png),
+    url(./img_kemenger/header/back-img/book.png),
+    url(./img_kemenger/header/back-img/five.png),
+    url(./img_kemenger/header/back-img/pen.png),
+    url(./img_kemenger/header/back-boy.png);
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat,
     no-repeat;
   background-size: 120px 120px, 190px 400px, 340px 270px, 120px 120px,
