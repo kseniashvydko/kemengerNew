@@ -40,8 +40,8 @@ a {
   background-size: 120px 120px, 190px 400px, 340px 270px, 120px 120px,
     120px 120px, 550px 700px;
 
-  background-position: 50px 300px, 400px 400px, 800px 500px, 600px 300px,
-    900px 200px, 1100px 0, 1100px 0;
+  background-position: right 0, 400px 400px, 800px 500px, 600px 300px,
+    900px 200px, 1100px 0, right 0;
   margin-bottom: 100px;
   height: 100vh;
 }
